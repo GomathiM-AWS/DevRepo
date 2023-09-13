@@ -1,7 +1,6 @@
+GIT basic commands:
 
-
-
-
+To initialize: git init
 
 
 
