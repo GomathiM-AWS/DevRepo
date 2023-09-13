@@ -1,3 +1,5 @@
 GIT basic commands:
 
 To check version: git --version
+To initialize: git init
+
