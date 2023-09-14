@@ -1,6 +1,7 @@
 GIT basic commands:
 
-To initialize: git init
-
+To initialize        : git init
+To add to staging are: git add .
+To commit            : git commit -m "message"
 
 
